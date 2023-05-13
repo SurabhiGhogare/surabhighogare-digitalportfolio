@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/SurabhiGhogare",
   linkedin: "https://www.linkedin.com/in/surabhi-ghogare-39a491236/",
   gmail: "surabhighogare@gmail.com",
-  instagram: "https://instagram.com/_surabhehehe_?igshid=ZGUzMzM3NWJiOQ==",
+  medium: "https://instagram.com/_surabhehehe_?igshid=ZGUzMzM3NWJiOQ==",
   
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
