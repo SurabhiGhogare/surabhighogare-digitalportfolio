@@ -23,7 +23,7 @@ const greeting = {
   username: "Surabhi Ghogare",
   title: "Hi all, I'm Surabhi",
   subTitle: emoji(
-    "I am a hardworking individual with good time management skills and the ability to work under pressure. I am passionate about my stufs and want to use my skills to benefit the organization." 🚀 
+    "I am a hardworking individual with good time management skills and the ability to work under pressure. I am passionate about my stufs and want to use my skills to benefit the organization. 🚀 "
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -36,7 +36,7 @@ const socialMediaLinks = {
   github: "https://github.com/SurabhiGhogare",
   linkedin: "https://www.linkedin.com/in/surabhi-ghogare-39a491236/",
   gmail: "surabhighogare@gmail.com",
-  medium: "https://instagram.com/_surabhehehe_?igshid=ZGUzMzM3NWJiOQ==",
+  instagram: "https://instagram.com/_surabhehehe_?igshid=ZGUzMzM3NWJiOQ==",
   
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
