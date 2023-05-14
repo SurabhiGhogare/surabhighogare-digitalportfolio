@@ -198,12 +198,12 @@ const openSource = {
 
 const bigProjects = {
   title: "Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "Some of the projects i have done",
   projects: [
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Web Development for Accessing and Management of E- Study Material",
+      projectDesc: "E-library is a Platform where all the E-Books, Research papers, Articles, Journals, Study material are available to the students. Using this web site, the student or the user can access all the resources, but for that the user requires access from their institute. Anyone with the college email-id can create an account and access all the resources like books, research papers and study material.",
       footerLink: [
         {
           name: "Visit Website",
@@ -214,8 +214,19 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectName: "Obstacle Avoidance Robot Simulation in Webot",
+      projectDesc: "Webots is an open source robot simulator that provides a complete development environment to model, program and simulate robots. Here we want to implement a simple avoidance algorithm to robot. We use e-puck robot, and simulated it on Webots Robot Simulator",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "http://nextu.se/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/nextuLogo.webp"),
+      projectName: "Development of Fire Fighting Robot",
+      projectDesc: "we present the development of a firefighting robot that can extinguish fire without the need for firefighters to be exposed to unnecessary danger. It is designed to be compact in size in order to ease small location entry for deeper reach of extinguishing fire in narrow space. It is also equipped with an ultrasonic sensor to avoid it from hitting any obstacle and surrounding objects, while a flame sensor is attached for fire detection. This resulted in demonstrating capabilities of identifying fire locations automatically and ability to extinguish fire remotely at particular distances.",
       footerLink: [
         {
           name: "Visit Website",
@@ -224,6 +235,7 @@ const bigProjects = {
       ]
     }
   ],
+  
   display: true // Set false to hide this section, defaults to true
 };
 
@@ -237,50 +249,55 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "IEEE Conference",
       subtitle:
         "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
       image: require("./assets/images/codeInLogo.webp"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
         {
-          name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "IEEE Conference",
+          url: "https://drive.google.com/file/d/1XzOXmPQoWVKyqK5DL-0JwQdRxvNRtr6Z/view?usp=share_link"
         }
       ]
     },
     {
-      title: "Google Assistant Action",
+      title: "MSME Internship",
       subtitle:
         "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: require("./assets/images/googleAssistantLogo.webp"),
       imageAlt: "Google Assistant Action Logo",
       footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "MSME Internship",
+          url: "https://drive.google.com/file/d/1NqphZrakues4tNZ-7LaDxEboZJzmWApB/view?usp=share_link"
         }
       ]
     },
 
     {
-      title: "PWA Web App Developer",
+      title: "NPTEL Certification",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
         {name: "Certification", url: ""},
         {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
+          name: "NPTEL Certification",
+          url: "https://drive.google.com/file/d/1tjP1TzxHhogmDvABJ7GTTqquk40u1A-e/view?usp=share_link"
+        }
+      ]
+    },
+    {
+      title: "EV Training completion",
+      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
+      image: require("./assets/images/pwaLogo.webp"),
+      imageAlt: "PWA Logo",
+      footerLink: [
+        {name: "Certification", url: ""},
+        {
+          name: "EV Training completion",
+          url: "https://drive.google.com/file/d/1MZypbeAdZbAu8HjLeihkUtPEdpabTgGL/view?usp=share_link"
         }
       ]
     }
