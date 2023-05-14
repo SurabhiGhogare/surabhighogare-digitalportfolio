@@ -26,7 +26,7 @@ const greeting = {
     "I am a hardworking individual with good time management skills and the ability to work under pressure. I am passionate about my stufs and want to use my skills to benefit the organization. 🚀 "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1iySw0TA--dqSXkj_r1d3sv9fcFat8RPW/view?usp=share_link", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
