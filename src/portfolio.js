@@ -105,7 +105,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "MIT Academy Of Engineering ",
-      logo: require("./assets/images/MIT"),
+      logo: require("./assets/images/MIT.jpg"),
       subHeader: "Bachelor of Electrical Engineering",
       duration: "August 2019 - June 2023",
       desc: "Participated in the various college events and published a IEEE research paper.",
@@ -115,7 +115,7 @@ const educationInfo = {
     },
     {
       schoolName: "Sarasvati Junior College, Nanded",
-      logo: require("./assets/images/saraswati Jr clg.png"),
+      logo: require("./assets/images/saraswati Jr clg.jpeg"),
       subHeader: "HSC",
       duration: "2018 - 2019",
       // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
@@ -123,7 +123,7 @@ const educationInfo = {
     },
     {
       schoolName: "Mahatma Phule High School, Nanded",
-      logo: require("./assets/images/Mahatma Phule.png"),
+      logo: require("./assets/images/Mahatma Phule.jpeg"),
       subHeader: "SSC",
       duration: "2016- 2017",
       // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
@@ -161,7 +161,7 @@ const workExperiences = {
     {
       role: "Intern",
       company: "Enerture Technologies Pvt. Ltd.",
-      companylogo: require("./assets/images/Enerture Tech.png"),
+      companylogo: require("./assets/images/Enerture Tech.jpeg"),
       date: "June 2022 - July 2022",
       desc: "In this the task is to learn and setup the EV Charging Plamt. For the purpose we have been given some online live tranning sessions and once after the completion we have visited diffirent companies like AUDI, Tata, Indian Oil etc. for the hands on of our learnings.",
       // descBullets: [
@@ -172,7 +172,7 @@ const workExperiences = {
     {
       role: "Intern ",
       company: "Pragati Enterprises",
-      companylogo: require("./assets/images/Pragati Enterprises.png"),
+      companylogo: require("./assets/images/Pragati Enterprises.jpeg"),
       date: "July 2022 - August 2022",
       desc: "We have learned the basic understanding of the hardware and software in embeded system. we ahve to design varous hardware components and the backed software configuration for the validation and tetsing purpose."
     }
@@ -201,7 +201,7 @@ const bigProjects = {
   subtitle: "Some of the projects i have done",
   projects: [
     {
-      image: require("./assets/images/web Development.webp"),
+      image: require("./assets/images/web Development.png"),
       projectName: "Web Development for Accessing and Management of E- Study Material",
       projectDesc: "E-library is a Platform where all the E-Books, Research papers, Articles, Journals, Study material are available to the students. Using this web site, the student or the user can access all the resources, but for that the user requires access from their institute. Anyone with the college email-id can create an account and access all the resources like books, research papers and study material.",
       footerLink: [
@@ -213,7 +213,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/Robot.webp"),
+      image: require("./assets/images/Robot.jpeg"),
       projectName: "Obstacle Avoidance Robot Simulation in Webot",
       projectDesc: "Webots is an open source robot simulator that provides a complete development environment to model, program and simulate robots. Here we want to implement a simple avoidance algorithm to robot. We use e-puck robot, and simulated it on Webots Robot Simulator",
       footerLink: [
@@ -224,7 +224,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/Fire Fighting Robot.webp"),
+      image: require("./assets/images/Fire Fighting Robot.jpeg"),
       projectName: "Development of Fire Fighting Robot",
       projectDesc: "we present the development of a firefighting robot that can extinguish fire without the need for firefighters to be exposed to unnecessary danger. It is designed to be compact in size in order to ease small location entry for deeper reach of extinguishing fire in narrow space. It is also equipped with an ultrasonic sensor to avoid it from hitting any obstacle and surrounding objects, while a flame sensor is attached for fire detection. This resulted in demonstrating capabilities of identifying fire locations automatically and ability to extinguish fire remotely at particular distances.",
       footerLink: [
@@ -252,7 +252,7 @@ const achievementSection = {
       title: "IEEE Conference",
       // subtitle:
       //   "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/IEEE.webp"),
+      image: require("./assets/images/IEEE.png"),
       imageAlt: "IEEE Certificate",
       footerLink: [
         {
@@ -265,7 +265,7 @@ const achievementSection = {
       title: "MSME Internship",
       // subtitle:
       //   "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/MSME.webp"),
+      image: require("./assets/images/MSME.jpeg"),
       imageAlt: "MSME Certification",
       footerLink: [
         {
@@ -278,7 +278,7 @@ const achievementSection = {
     {
       title: "NPTEL Certification",
       // subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/NPTEL.webp"),
+      image: require("./assets/images/NPTEL.png"),
       imageAlt: "NPTEL Certification",
       footerLink: [
         // {name: "Certification", url: ""},
@@ -291,7 +291,7 @@ const achievementSection = {
     {
       title: "EV Training completion",
       subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/EV.webp"),
+      image: require("./assets/images/EV.jpeg"),
       imageAlt: "EV Training",
       footerLink: [
         // {name: "Certification", url: ""},
@@ -315,7 +315,7 @@ const blogSection = {
   blogs: [
     {
       url: "https://surabhighogare.hashnode.dev/introduction-to-cloud-computing-exploring-the-basics-types-of-cloud-computing-services-iaas-paas-and-saas",
-      title: "WIntroduction to Cloud Computing: Exploring the Basics, Types of Cloud Computing Services: IaaS, PaaS, and SaaS",
+      title: "Introduction to Cloud Computing: Exploring the Basics, Types of Cloud Computing Services: IaaS, PaaS, and SaaS",
       // description:
       //   "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
     },
