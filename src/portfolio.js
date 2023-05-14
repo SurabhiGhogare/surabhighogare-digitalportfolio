@@ -115,7 +115,7 @@ const educationInfo = {
     },
     {
       schoolName: "Sarasvati Junior College, Nanded",
-      logo: require("./assets/images/saraswati Jr clg.jpeg"),
+      logo: require("./assets/images/Saraswati Jr clg.jpeg"),
       subHeader: "HSC",
       duration: "2018 - 2019",
       // desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
